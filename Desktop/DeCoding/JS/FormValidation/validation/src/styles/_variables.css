@@ -1,0 +1,6 @@
+:root {
+    /* // ===== COLORS ========= */
+    --main: #566885;
+    /* // ==== WIDTH ========= */
+    --container-width: calc(1440px + 60px);
+}
